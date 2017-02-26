@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/acd21_PA5/main.cpp
+iostream
+-
+cstdlib
+-
+nLL.h
+C:/Users/Adam/CLionProjects/acd21_PA5/nLL.h
+
+C:/Users/Adam/CLionProjects/acd21_PA5/nLL.h
+cstddef
+-
+
+C:/Users/Adam/CLionProjects/acd21_PA5/nLLImp.cpp
+iostream
+-
+iostream
+-
+nLL.h
+C:/Users/Adam/CLionProjects/acd21_PA5/nLL.h
+
